@@ -9,7 +9,7 @@
     <td align="center" width=500><img  src="https://github-profile-trophy.vercel.app/?username=Toney823&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/Toney823/Toney823/master/assets/github-contribution-grid-snake.svg" /></td>
+    <td colspan="2" align="center"><img src="https://github.com/Toney823/Toney823/blob/output/github-contribution-grid-snake-dark.svg" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Toney823&theme=xcode&hide_border=true" alt="Activity"/></td>
