@@ -11,9 +11,6 @@
   <tr>
     <td colspan="2" align="center"><img src="https://github.com/Toney823/Toney823/blob/output/github-contribution-grid-snake-dark.svg" /></td>
   </tr>
-  <tr>
-   # <td colspan="2" align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Toney823&theme=xcode&hide_border=true" alt="Activity"/></td>
-  </tr>
 </table>
 
 </div>
