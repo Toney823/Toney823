@@ -12,5 +12,4 @@
     <td colspan="2" align="center"><img src="https://github.com/Toney823/Toney823/blob/output/github-contribution-grid-snake-dark.svg" /></td>
   </tr>
 </table>
-
 </div>
